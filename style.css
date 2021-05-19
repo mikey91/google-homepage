@@ -186,6 +186,10 @@ footer {
     justify-content: space-between;
     flex-wrap: wrap;
   }
+  
+  .search {
+    width: 75%
+  }
 
   .carbon {
     width: 100%;
